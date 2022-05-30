@@ -1,0 +1,15 @@
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\bin\Debug\net6.0\Funcionario_cs.exe
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\bin\Debug\net6.0\Funcionario_cs.deps.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\bin\Debug\net6.0\Funcionario_cs.runtimeconfig.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\bin\Debug\net6.0\Funcionario_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\bin\Debug\net6.0\Funcionario_cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\obj\Debug\net6.0\Funcionario_cs.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\obj\Debug\net6.0\Funcionario_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\obj\Debug\net6.0\Funcionario_cs.AssemblyInfoInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\obj\Debug\net6.0\Funcionario_cs.AssemblyInfo.cs
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\obj\Debug\net6.0\Funcionario_cs.csproj.CoreCompileInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\obj\Debug\net6.0\Funcionario_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\obj\Debug\net6.0\refint\Funcionario_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\obj\Debug\net6.0\Funcionario_cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\obj\Debug\net6.0\Funcionario_cs.genruntimeconfig.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Funcionario_cs\obj\Debug\net6.0\ref\Funcionario_cs.dll

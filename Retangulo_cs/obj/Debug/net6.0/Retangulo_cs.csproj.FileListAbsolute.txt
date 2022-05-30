@@ -1,0 +1,15 @@
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\bin\Debug\net6.0\Retangulo_cs.exe
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\bin\Debug\net6.0\Retangulo_cs.deps.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\bin\Debug\net6.0\Retangulo_cs.runtimeconfig.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\bin\Debug\net6.0\Retangulo_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\bin\Debug\net6.0\Retangulo_cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\obj\Debug\net6.0\Retangulo_cs.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\obj\Debug\net6.0\Retangulo_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\obj\Debug\net6.0\Retangulo_cs.AssemblyInfoInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\obj\Debug\net6.0\Retangulo_cs.AssemblyInfo.cs
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\obj\Debug\net6.0\Retangulo_cs.csproj.CoreCompileInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\obj\Debug\net6.0\Retangulo_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\obj\Debug\net6.0\refint\Retangulo_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\obj\Debug\net6.0\Retangulo_cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\obj\Debug\net6.0\Retangulo_cs.genruntimeconfig.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Retangulo_cs\obj\Debug\net6.0\ref\Retangulo_cs.dll

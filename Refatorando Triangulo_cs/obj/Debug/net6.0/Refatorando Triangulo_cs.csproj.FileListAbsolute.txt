@@ -1,0 +1,15 @@
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\bin\Debug\net6.0\Refatorando Triangulo_cs.exe
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\bin\Debug\net6.0\Refatorando Triangulo_cs.deps.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\bin\Debug\net6.0\Refatorando Triangulo_cs.runtimeconfig.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\bin\Debug\net6.0\Refatorando Triangulo_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\bin\Debug\net6.0\Refatorando Triangulo_cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\obj\Debug\net6.0\Refatorando Triangulo_cs.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\obj\Debug\net6.0\Refatorando Triangulo_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\obj\Debug\net6.0\Refatorando Triangulo_cs.AssemblyInfoInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\obj\Debug\net6.0\Refatorando Triangulo_cs.AssemblyInfo.cs
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\obj\Debug\net6.0\Refatorando Triangulo_cs.csproj.CoreCompileInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\obj\Debug\net6.0\Refatorando Triangulo_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\obj\Debug\net6.0\refint\Refatorando Triangulo_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\obj\Debug\net6.0\Refatorando Triangulo_cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\obj\Debug\net6.0\Refatorando Triangulo_cs.genruntimeconfig.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Refatorando Triangulo_cs\obj\Debug\net6.0\ref\Refatorando Triangulo_cs.dll

@@ -1,0 +1,15 @@
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\obj\Debug\net6.0\MediaNotasAluno_cs.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\obj\Debug\net6.0\MediaNotasAluno_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\obj\Debug\net6.0\MediaNotasAluno_cs.AssemblyInfoInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\obj\Debug\net6.0\MediaNotasAluno_cs.AssemblyInfo.cs
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\obj\Debug\net6.0\MediaNotasAluno_cs.csproj.CoreCompileInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\bin\Debug\net6.0\MediaNotasAluno_cs.exe
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\bin\Debug\net6.0\MediaNotasAluno_cs.deps.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\bin\Debug\net6.0\MediaNotasAluno_cs.runtimeconfig.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\bin\Debug\net6.0\MediaNotasAluno_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\bin\Debug\net6.0\MediaNotasAluno_cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\obj\Debug\net6.0\MediaNotasAluno_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\obj\Debug\net6.0\refint\MediaNotasAluno_cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\obj\Debug\net6.0\MediaNotasAluno_cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\obj\Debug\net6.0\MediaNotasAluno_cs.genruntimeconfig.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\MediaNotasAluno_cs\obj\Debug\net6.0\ref\MediaNotasAluno_cs.dll

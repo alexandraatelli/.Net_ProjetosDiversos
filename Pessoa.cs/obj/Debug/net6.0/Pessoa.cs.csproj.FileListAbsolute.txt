@@ -1,0 +1,15 @@
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\obj\Debug\net6.0\Pessoa.cs.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\obj\Debug\net6.0\Pessoa.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\obj\Debug\net6.0\Pessoa.cs.AssemblyInfoInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\obj\Debug\net6.0\Pessoa.cs.AssemblyInfo.cs
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\obj\Debug\net6.0\Pessoa.cs.csproj.CoreCompileInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\bin\Debug\net6.0\Pessoa.cs.exe
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\bin\Debug\net6.0\Pessoa.cs.deps.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\bin\Debug\net6.0\Pessoa.cs.runtimeconfig.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\bin\Debug\net6.0\Pessoa.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\bin\Debug\net6.0\Pessoa.cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\obj\Debug\net6.0\Pessoa.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\obj\Debug\net6.0\refint\Pessoa.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\obj\Debug\net6.0\Pessoa.cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\obj\Debug\net6.0\Pessoa.cs.genruntimeconfig.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Pessoa.cs\obj\Debug\net6.0\ref\Pessoa.cs.dll

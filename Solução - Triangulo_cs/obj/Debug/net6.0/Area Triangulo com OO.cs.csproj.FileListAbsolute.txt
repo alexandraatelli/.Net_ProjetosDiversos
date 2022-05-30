@@ -1,0 +1,15 @@
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\bin\Debug\net6.0\Area Triangulo com OO.cs.exe
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\bin\Debug\net6.0\Area Triangulo com OO.cs.deps.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\bin\Debug\net6.0\Area Triangulo com OO.cs.runtimeconfig.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\bin\Debug\net6.0\Area Triangulo com OO.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\bin\Debug\net6.0\Area Triangulo com OO.cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\obj\Debug\net6.0\Area Triangulo com OO.cs.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\obj\Debug\net6.0\Area Triangulo com OO.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\obj\Debug\net6.0\Area Triangulo com OO.cs.AssemblyInfoInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\obj\Debug\net6.0\Area Triangulo com OO.cs.AssemblyInfo.cs
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\obj\Debug\net6.0\Area Triangulo com OO.cs.csproj.CoreCompileInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\obj\Debug\net6.0\Area Triangulo com OO.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\obj\Debug\net6.0\refint\Area Triangulo com OO.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\obj\Debug\net6.0\Area Triangulo com OO.cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\obj\Debug\net6.0\Area Triangulo com OO.cs.genruntimeconfig.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\Area Triangulo com OO.cs\obj\Debug\net6.0\ref\Area Triangulo com OO.cs.dll

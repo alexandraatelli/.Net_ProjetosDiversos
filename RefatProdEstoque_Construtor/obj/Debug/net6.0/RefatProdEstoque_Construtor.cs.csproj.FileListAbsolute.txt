@@ -1,0 +1,5 @@
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\RefatProdEstoque_Construtor.cs\obj\Debug\net6.0\RefatProdEstoque_Construtor.cs.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\RefatProdEstoque_Construtor.cs\obj\Debug\net6.0\RefatProdEstoque_Construtor.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\RefatProdEstoque_Construtor.cs\obj\Debug\net6.0\RefatProdEstoque_Construtor.cs.AssemblyInfoInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\RefatProdEstoque_Construtor.cs\obj\Debug\net6.0\RefatProdEstoque_Construtor.cs.AssemblyInfo.cs
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Udemy\C# e OO\OO - Exercicios\RefatProdEstoque_Construtor.cs\obj\Debug\net6.0\RefatProdEstoque_Construtor.cs.csproj.CoreCompileInputs.cache

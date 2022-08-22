@@ -1,2 +1,2 @@
-# OO-Exercicios
- Exercicios - Prof. Dr. Nelio Alves
+# Orientação a Objetos - C#
+ Estudos - Curso por Prof. Dr. Nelio Alves

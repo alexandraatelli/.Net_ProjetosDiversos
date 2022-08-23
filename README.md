@@ -1,2 +1,2 @@
-# Orientação a Objetos - C#
- Estudos - Curso por Prof. Dr. Nelio Alves
+# Orientação a Objetos - .Net C#
+ Programas diversos - Estudos.

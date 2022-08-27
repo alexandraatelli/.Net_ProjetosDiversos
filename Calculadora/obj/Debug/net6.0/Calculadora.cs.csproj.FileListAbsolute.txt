@@ -1,0 +1,15 @@
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\bin\Debug\net6.0\Calculadora.cs.exe
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\bin\Debug\net6.0\Calculadora.cs.deps.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\bin\Debug\net6.0\Calculadora.cs.runtimeconfig.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\bin\Debug\net6.0\Calculadora.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\bin\Debug\net6.0\Calculadora.cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\obj\Debug\net6.0\Calculadora.cs.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\obj\Debug\net6.0\Calculadora.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\obj\Debug\net6.0\Calculadora.cs.AssemblyInfoInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\obj\Debug\net6.0\Calculadora.cs.AssemblyInfo.cs
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\obj\Debug\net6.0\Calculadora.cs.csproj.CoreCompileInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\obj\Debug\net6.0\Calculadora.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\obj\Debug\net6.0\refint\Calculadora.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\obj\Debug\net6.0\Calculadora.cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\obj\Debug\net6.0\Calculadora.cs.genruntimeconfig.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\Calculadora.cs\obj\Debug\net6.0\ref\Calculadora.cs.dll

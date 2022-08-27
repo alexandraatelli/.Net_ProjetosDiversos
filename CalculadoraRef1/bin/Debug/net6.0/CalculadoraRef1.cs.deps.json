@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculadoraRef1.cs/1.0.0": {
+        "runtime": {
+          "CalculadoraRef1.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraRef1.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

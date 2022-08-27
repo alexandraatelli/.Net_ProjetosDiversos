@@ -1,0 +1,15 @@
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\obj\Debug\net6.0\Cronometro.cs.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\obj\Debug\net6.0\Cronometro.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\obj\Debug\net6.0\Cronometro.cs.AssemblyInfoInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\obj\Debug\net6.0\Cronometro.cs.AssemblyInfo.cs
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\obj\Debug\net6.0\Cronometro.cs.csproj.CoreCompileInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\bin\Debug\net6.0\Cronometro.cs.exe
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\bin\Debug\net6.0\Cronometro.cs.deps.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\bin\Debug\net6.0\Cronometro.cs.runtimeconfig.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\bin\Debug\net6.0\Cronometro.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\bin\Debug\net6.0\Cronometro.cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\obj\Debug\net6.0\Cronometro.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\obj\Debug\net6.0\refint\Cronometro.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\obj\Debug\net6.0\Cronometro.cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\obj\Debug\net6.0\Cronometro.cs.genruntimeconfig.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\DotNetBalta.io\Cronometro.cs\obj\Debug\net6.0\ref\Cronometro.cs.dll

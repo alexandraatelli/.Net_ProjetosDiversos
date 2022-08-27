@@ -1,0 +1,15 @@
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\obj\Debug\net6.0\CalculadoraRef1.cs.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\obj\Debug\net6.0\CalculadoraRef1.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\obj\Debug\net6.0\CalculadoraRef1.cs.AssemblyInfoInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\obj\Debug\net6.0\CalculadoraRef1.cs.AssemblyInfo.cs
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\obj\Debug\net6.0\CalculadoraRef1.cs.csproj.CoreCompileInputs.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\bin\Debug\net6.0\CalculadoraRef1.cs.exe
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\bin\Debug\net6.0\CalculadoraRef1.cs.deps.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\bin\Debug\net6.0\CalculadoraRef1.cs.runtimeconfig.json
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\bin\Debug\net6.0\CalculadoraRef1.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\bin\Debug\net6.0\CalculadoraRef1.cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\obj\Debug\net6.0\CalculadoraRef1.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\obj\Debug\net6.0\refint\CalculadoraRef1.cs.dll
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\obj\Debug\net6.0\CalculadoraRef1.cs.pdb
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\obj\Debug\net6.0\CalculadoraRef1.cs.genruntimeconfig.cache
+C:\Users\atell\Desktop\Cursos e Certificações diversos\Balta.io\C#\Exercícios C#\CalculadoraRef1.cs\obj\Debug\net6.0\ref\CalculadoraRef1.cs.dll

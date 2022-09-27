@@ -1,2 +1,2 @@
 # Orientação a Objetos - .Net C#
- Programas diversos - Estudos - NA
+ Programas Diversos - Estudos.
